@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/libamrenc.so:system/lib/libamrenc.so \
     vendor/wiko/s8073/proprietary/lib/libmhal.so:system/lib/libmhal.so \
     vendor/wiko/s8073/proprietary/lib/libextmap_jni.so:system/lib/libextmap_jni.so \
-    vendor/wiko/s8073/proprietary/lib/libmp4dec_sb.ca9.so:system/lib/libmp4dec_sb.ca9.so \
     vendor/wiko/s8073/proprietary/lib/libmtka2dp.so:system/lib/libmtka2dp.so \
     vendor/wiko/s8073/proprietary/lib/libextopp_jni.so:system/lib/libextopp_jni.so \
     vendor/wiko/s8073/proprietary/lib/libnvram.so:system/lib/libnvram.so \
@@ -69,12 +68,10 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/libmp3dec_mtk.so:system/lib/libmp3dec_mtk.so \
     vendor/wiko/s8073/proprietary/lib/libssladp.so:system/lib/libssladp.so \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
-    vendor/wiko/s8073/proprietary/lib/libja3m.so:system/lib/libja3m.so \
     vendor/wiko/s8073/proprietary/lib/libMtkVideoTranscoder.so:system/lib/libMtkVideoTranscoder.so \
     vendor/wiko/s8073/proprietary/lib/libh264dec_customize.so:system/lib/libh264dec_customize.so \
     vendor/wiko/s8073/proprietary/lib/libutilril3mtk.so:system/lib/libutilril3mtk.so \
     vendor/wiko/s8073/proprietary/lib/librilmtk.so:system/lib/librilmtk.so \
-    vendor/wiko/s8073/proprietary/lib/libh264enc_sb.ca9.so:system/lib/libh264enc_sb.ca9.so \
     vendor/wiko/s8073/proprietary/lib/libpalwlan_mtk.so:system/lib/libpalwlan_mtk.so \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxAwbEnc.so:system/lib/libMtkOmxAwbEnc.so \
     vendor/wiko/s8073/proprietary/lib/libmtkbtextadp.so:system/lib/libmtkbtextadp.so \
@@ -83,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/libexttestmode.so:system/lib/libexttestmode.so \
     vendor/wiko/s8073/proprietary/lib/libextpbap.so:system/lib/libextpbap.so \
     vendor/wiko/s8073/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
-    vendor/wiko/s8073/proprietary/lib/libmp4enc_xb.ca9.so:system/lib/libmp4enc_xb.ca9.so \
     vendor/wiko/s8073/proprietary/lib/mtk-ril.so:system/lib/mtk-ril.so \
     vendor/wiko/s8073/proprietary/lib/libagpssupl.so:system/lib/libagpssupl.so \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxAmrEnc.so:system/lib/libMtkOmxAmrEnc.so \
@@ -115,7 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/librv9dec_customize.so:system/lib/librv9dec_customize.so \
     vendor/wiko/s8073/proprietary/lib/libmp4enc_xa.ca9.so:system/lib/libmp4enc_xa.ca9.so \
     vendor/wiko/s8073/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
-    vendor/wiko/s8073/proprietary/lib/libh264dec_xb.ca9.so:system/lib/libh264dec_xb.ca9.so \
     vendor/wiko/s8073/proprietary/lib/libdrmmtkutil.so:system/lib/libdrmmtkutil.so \
     vendor/wiko/s8073/proprietary/lib/libextmap.so:system/lib/libextmap.so \
     vendor/wiko/s8073/proprietary/lib/libmp4dec_customize.so:system/lib/libmp4dec_customize.so \
@@ -166,7 +161,6 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/bin/mtkbt:system/bin/mtkbt \
     vendor/wiko/s8073/proprietary/bin/rild:system/bin/rild \
     vendor/wiko/s8073/proprietary/bin/xlog:system/bin/xlog \
-    vendor/wiko/s8073/proprietary/bin/mdpserver:system/bin/mdpserver \
     vendor/wiko/s8073/proprietary/bin/btconfig:system/bin/btconfig \
     vendor/wiko/s8073/proprietary/bin/ccci_mdinit:system/bin/ccci_mdinit \
     vendor/wiko/s8073/proprietary/bin/ami304d:system/bin/ami304d \
