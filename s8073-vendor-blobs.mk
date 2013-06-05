@@ -140,6 +140,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/modules/devinfo.ko:system/lib/modules/devinfo.ko \
     vendor/wiko/s8073/proprietary/lib/modules/p2p_mt6628.ko:system/lib/modules/p2p_mt6628.ko \
     vendor/wiko/s8073/proprietary/lib/modules/p2p_mt6620.ko:system/lib/modules/p2p_mt6620.ko \
+    vendor/wiko/s8073/proprietary/lib/modules/sec.ko:system/lib/modules/sec.ko \
     vendor/wiko/s8073/proprietary/lib/modules/alps_core.ko:system/lib/modules/alps_core.ko \
     vendor/wiko/s8073/proprietary/lib/modules/ccci.ko:system/lib/modules/ccci.ko \
     vendor/wiko/s8073/proprietary/lib/modules/vcodec_kernel_driver.ko:system/lib/modules/vcodec_kernel_driver.ko \
