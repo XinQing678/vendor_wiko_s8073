@@ -87,6 +87,9 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxVorbisDec.so:system/lib/libMtkOmxVorbisDec.so \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxCookDec.so:system/lib/libMtkOmxCookDec.so \
     vendor/wiko/s8073/proprietary/lib/libcameraprofile.so:system/lib/libcameraprofile.so \
+    vendor/wiko/s8073/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
+    vendor/wiko/s8073/proprietary/lib/libmatv_cust.so:system/lib/libmatv_cust.so \
+    vendor/wiko/s8073/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/wiko/s8073/proprietary/lib/libMtkOmxAacDec.so:system/lib/libMtkOmxAacDec.so \
     vendor/wiko/s8073/proprietary/lib/libextsys.so:system/lib/libextsys.so \
     vendor/wiko/s8073/proprietary/lib/libutilrilmtk.so:system/lib/libutilrilmtk.so \
@@ -137,6 +140,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s8073/proprietary/lib/modules/devinfo.ko:system/lib/modules/devinfo.ko \
     vendor/wiko/s8073/proprietary/lib/modules/p2p_mt6628.ko:system/lib/modules/p2p_mt6628.ko \
     vendor/wiko/s8073/proprietary/lib/modules/p2p_mt6620.ko:system/lib/modules/p2p_mt6620.ko \
+    vendor/wiko/s8073/proprietary/lib/modules/sec.ko:system/lib/modules/sec.ko \
     vendor/wiko/s8073/proprietary/lib/modules/alps_core.ko:system/lib/modules/alps_core.ko \
     vendor/wiko/s8073/proprietary/lib/modules/ccci.ko:system/lib/modules/ccci.ko \
     vendor/wiko/s8073/proprietary/lib/modules/vcodec_kernel_driver.ko:system/lib/modules/vcodec_kernel_driver.ko \
